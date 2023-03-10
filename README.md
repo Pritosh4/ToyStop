@@ -16,6 +16,10 @@ The 2 Legends that are below the filters show a visualization on the last column
 - The `Price` legend gives you a visual representation of the price of the toy.
 - The `Reviews` legend shows the number of reviews that the toys has received (or the number of people who have bought that particular toy).
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/93176385/224316817-acadda28-a8ff-440f-9f88-0fb77499c26c.png)
+
+
 ## Inspiration
 After becoming an uncle recently, a challenge that I faced while trying to gift my nephew a toy was that I was not able to find the perfect toy for him. Being a perfectionist at heart, I wanted to find the perfect toy for him, but I found that the filtering options on the Amazon India website were not adequate in ensuring that I could find him the perfect one. I could not sort on the ratings with a predefined condition that there were at least 500 reviews posted because the only option that they had was to sort in descending order of ratings and that meant that the first toy in the sorted order was one that had a single 5 start rating and since only 1 customer bought it hence that obviously was not the perfect one. That is where I had the idea of ToyStop.
 
