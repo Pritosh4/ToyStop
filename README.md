@@ -16,8 +16,18 @@ The 2 Legends that are below the filters show a visualization on the last column
 - The `Price` legend gives you a visual representation of the price of the toy.
 - The `Reviews` legend shows the number of reviews that the toys has received (or the number of people who have bought that particular toy).
 
-## Screenshot
+## Screenshots
+
+### Webscraping
+![image](https://user-images.githubusercontent.com/93176385/224318199-564e66f2-09fa-492e-a845-50f6c68f5e78.png)
+
+
+### Analysis
+![image](https://user-images.githubusercontent.com/93176385/224318112-766114ae-ef87-4605-93c4-d2469f0c4f62.png)
+
+### Dashboard
 ![image](https://user-images.githubusercontent.com/93176385/224316817-acadda28-a8ff-440f-9f88-0fb77499c26c.png)
+
 
 
 ## Inspiration
