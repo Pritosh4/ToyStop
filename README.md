@@ -36,6 +36,6 @@ After becoming an uncle recently, a challenge that I faced while trying to gift 
 ## Reflection
 This was a 2 week long project wherein initially, I webscraped the necessary product information of all the products available from multiple pages of the Amazon India website using `BeautifulSoup`. 
 
-After getting the data and converting it into a .csv file, I loaded it into a `PostgreSQL` database and ran `SQL` queries on the data to answer questions like “Which toy was the bestseller?”, “Which toy was the highest rated having at least 500 reviews?”, “How many toys are available on the website on the basis of the minimum age required?”, etc. 
+After getting the data and converting it into a `.csv` file, I loaded it into a `PostgreSQL` database and ran `SQL` queries on the data to answer questions like “Which toy was the bestseller?”, “Which toy was the highest rated having at least 500 reviews?”, “How many toys are available on the website on the basis of the minimum age required?”, etc. 
 
 After this brief analysis, the data was loaded onto Tableau and the dashboard created allowed the user to choose the filters and criteria that they wanted to set allowing them a personalised suggestion on the toys that they can buy.
