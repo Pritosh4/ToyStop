@@ -34,7 +34,7 @@ The 2 Legends that are below the filters show a visualization on the last column
 After becoming an uncle recently, a challenge that I faced while trying to gift my nephew a toy was that I was not able to find the perfect toy for him. Being a perfectionist at heart, I wanted to find the perfect toy for him, but I found that the filtering options on the Amazon India website were not adequate in ensuring that I could find him the perfect one. I could not sort the ratings with a predefined condition that there were at least 500 reviews posted because the only option that they had was to sort in descending order of ratings and that meant that the first toy in the sorted order was one that had a single 5 star rating and since only 1 customer bought it, hence it obviously was not the perfect one. That is where I had the idea of ToyStop.
 
 ## Reflection
-This was a 2 week long project wherein initially, I webscraped the necessary product information of all the products available from multiple pages of the Amazon India website using `BeautifulSoup`. 
+This was a 2 week long project wherein initially, I webscraped the necessary product information of all the toys available from multiple pages of the Amazon India website using `BeautifulSoup`. 
 
 After getting the data and converting it into a `.csv` file, I loaded it into a `PostgreSQL` database and ran `SQL` queries on the data to answer questions like “Which toy was the bestseller?”, “Which toy was the highest rated having at least 500 reviews?”, “How many toys are available on the website on the basis of the minimum age required?”, etc. 
 
