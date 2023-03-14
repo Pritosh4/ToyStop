@@ -2,7 +2,7 @@
 ToyStop is an interactive dashboard that can visualize the data corresponding to the trends of the sales of toys on the Amazon India website and suggest appropriate toys based on user-chosen filters and requirements.
 
 ## Project Link and How to Use?
-[Dashboard Link](https://public.tableau.com/views/Book1_16782670778430/ToyStop?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard Link](https://public.tableau.com/app/profile/pritosh8817/viz/Book1_16782670778430/Dashboard1)
 
 Once you click the link and open the dashboard you will notice 2 tables. The table at the bottom shows the Top 10 Most Bought Toys on the website, if you wish to directly go for the bestseller, then you can click the table cell of the toy you want and clicking the cell will render the product page on the top right webpage element so that you can take a look at the product and see what it is. After looking at the product if you wish to buy it then click the link that is also there in the tooltip and that will take you to the product page on Amazon India from where you can directly buy your toy.
 The table on the top is the dynamic table that will change according to the requirments and filters that you want to put. On the right you will see all the filters that you can use to ensure you find the perfect toy.
